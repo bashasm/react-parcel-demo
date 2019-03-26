@@ -6,7 +6,7 @@ A sample repository using Parcel bundler for React applications
 
 In the project directory, you can run:
 
-### `yarn`
+### `yarn or npm install`
 
 Installs the dependencies.<br>
 
