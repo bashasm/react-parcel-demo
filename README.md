@@ -6,11 +6,11 @@ A sample repository using Parcel bundler for React applications
 
 In the project directory, you can run:
 
-### `yarn or npm install`
+### `npm install`
 
 Installs the dependencies.<br>
 
-### `npm run dev`
+### `npm start`
 
 Runs the app in the development mode with hot reloading.<br>
 Now, open [http://localhost:3000](http://localhost:3000) to view it in the browser.
